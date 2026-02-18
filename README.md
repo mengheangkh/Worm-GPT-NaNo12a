@@ -275,12 +275,11 @@ v1.0
 
 👨‍💻 Developer
 
-Telegram: @mengheang25
+Telegram: [@mengheang25]
 
 🔗 Channel
 
-https://t.me/AI25NANO
-
+[https://t.me/Heangcyber25]
 ---
 
 ⭐ If you find this project useful, consider supporting the developer.
